@@ -1,1 +1,2 @@
-
+# PingPong
+This project is a classic game of Pong implemented in Python using the Turtle graphics library. The game provides a simple and engaging two-player experience where players control paddles on either side of the screen to bounce a ball back and forth. The objective is to prevent the ball from passing your paddle while trying to score points by making the ball pass the opponent's paddle. The game includes features such as paddle movement controlled by keyboard inputs, a score display for both players, and sound effects for ball bounces. It's a fun and nostalgic recreation of the iconic Pong game, showcasing basic game development concepts and user interaction in Python.
